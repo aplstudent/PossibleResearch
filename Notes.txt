@@ -1,0 +1,2 @@
+I am going to investigate how to use python to gain access to the semanitc web
+I know that this is semi-structred data with a sql like database managment system. 
