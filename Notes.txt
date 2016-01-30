@@ -1,2 +1,16 @@
-I am going to investigate how to use python to gain access to the semanitc web
-I know that this is semi-structred data with a sql like database managment system. 
+Saturday Jan 30th
+-I am going to investigate how to use python to gain access to the semanitc web
+-I know that this is semi-structred data with a sql like database managment system. 
+
+-really the name is just a name. I am trying to figure out how to use python to access 
+-the semantic web. An area of research here is ontologies. I think it's a way for data 
+-to always follow the same pattern. I am not sure what I should be using the data for or which
+-data to collect specifically. 
+-the semantic web exploits the structure of a web page. each node is a link with edges that 
+-connecting them that are the relationship bettwen the nodes. In RBF this follows subject, object ,predicate
+-I'm not sure if this is the right direction to go on. THis is applying data mining techniques to the 
+-explosion of semantic web data. 
+-It might be more beneficial to learn the data mining techniques. Staying within natural language processing 
+-this makes me think of sentiment anylasis. The project would be to find reviews and metadata on the reviews 
+-then make a table of thier sentiment. A possible research question would be if there is any difference between levels
+-of sentiment and medium. A collabrative filtering algorithm could be applied to this. 
