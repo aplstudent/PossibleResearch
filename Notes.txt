@@ -34,3 +34,8 @@ https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
 -bellman equation, Q-network , deep network
 -Arcade Learning Enviroment is the emulator that will be the data. 
  
+ --I'm trying to install the python interface for the arcade learning enviroment. I'm having trouble editing the enviroment variable
+ --lots of problems
+ --more problems 
+ --seeing that cmake can't be used and might be the right way to do it. 
+ --stopping for now didn't get it to be work.
