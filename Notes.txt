@@ -39,3 +39,12 @@ https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
  --more problems 
  --seeing that cmake can't be used and might be the right way to do it. 
  --stopping for now didn't get it to be work.
+ 
+ Jaunary 31st Sunday
+Researching how to build a beaowolf cluster and parrallel pyhton and theano code
+-lots of python packages
+-might be useful to learn the c 
+-I'm going to write a good logistic regression function and use it to make predictions on MNIST
+-following the totorial but trying to build it on my own from memory
+W,b,x, softmax, argmax, p_y_given_x, y_pred, error function, negative log likelihood,errors That's everything in the logistic regression class
+-next part is stochastic gradient descent to do the optimization. 
