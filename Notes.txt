@@ -14,3 +14,22 @@ Saturday Jan 30th
 -this makes me think of sentiment anylasis. The project would be to find reviews and metadata on the reviews 
 -then make a table of thier sentiment. A possible research question would be if there is any difference between levels
 -of sentiment and medium. A collabrative filtering algorithm could be applied to this. 
+
+--another area that I could explore is machine vision and the self driving car. In my cis 330 class we got an edison board and
+--there are many possibilities for what can be done with it. I'm not sure which direction to take the project 
+
+--another area of research is pattern recognition. 
+
+--i am also interested in reinforment learning. It is defined as how software agents act in an enviroment to maximaize reward. --Unlike supervised learning the corret in/out pairs aren't given. There are so many diferent areas of analytics and machin learning i'm not sure which one to dive into. 
+
+-Markov decision process. partly random partly under control. Extension of markov chains, but has actions and rewards. if only one each then it's a chain. I'm liking reinforcment learning. There was a paper called playing atari with reinfocemnt learning
+https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
+-My goal might be to create a reinforcment learning library or to recreate the paper. 
+-looking at existing open source projects to understand how they are put together. 
+-this is where I'll start 
+-ill do some tutorials on it
+-This slide show gets really mathy with it http://hunch.net/~jl/projects/RL/RLTheoryTutorial.pdf i think i need a book. 
+-The main parts of a MDP is the action space, state space, transition probabilites, payoff function, value and pi. 
+-THe states are fed to an emultaor , the machine observes a vector of pixel values
+-bellman equation, Q-network , deep network
+-Arcade Learning Enviroment is the emulator that will be the data. 
