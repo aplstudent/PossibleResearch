@@ -33,3 +33,4 @@ https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
 -THe states are fed to an emultaor , the machine observes a vector of pixel values
 -bellman equation, Q-network , deep network
 -Arcade Learning Enviroment is the emulator that will be the data. 
+ 
