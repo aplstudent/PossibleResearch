@@ -50,5 +50,15 @@ W,b,x, softmax, argmax, p_y_given_x, y_pred, error function, negative log likeli
 -next part is stochastic gradient descent to do the optimization. 
 while the number of epochs hasn't been reached and for every minibatch index, so 84 minimatches and 1000 epochs. get the number of batches based on total size and batch size. get the average cost for the minibatch by running the theano function on the minibatch index. every epoch check whether there has been an improvment by comparing against the batch size. check if you still need to train the loop. save the best model. that's the basics of the gradient descent.
 
+stochastic gradient descent uses 
 --Looking into mpi clustering for python. scipy has a god module called mpi4py. might be the key. 
-
+-- stochastic gradient descent -- function build model-paramaters-epochs, varaible number of batches, minibatch index, average cost, function train model,
+-----class logistic regression
+-----function sgd_optimization(learning_rate,epochs,dataset,batch_size)  , predict
+----inside sgd
+----------functions sgd uses: 
+----------theano functions built in sgd
+---create 3 datasets and 3 num batches
+---build theano function
+----declare T varaibles -index-x-y
+----train,valid,test function
